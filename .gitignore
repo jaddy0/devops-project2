@@ -1,3 +1,2 @@
-.terraform
-terraform_code/ec2_server/.terraform
-
+.terraform*
+terraform.tfstate
